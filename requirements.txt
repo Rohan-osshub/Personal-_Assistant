@@ -1,0 +1,11 @@
+elevenlabs
+pyaudio
+openai
+dotenv
+pillow
+langchain_community
+langchain
+os
+requests
+cv2
+play
